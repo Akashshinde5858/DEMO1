@@ -1,0 +1,49 @@
+Q wap to print hello message 
+Q what is variable    
+
+
+1) java variable
+   a) local variable   {} ()
+   b) static variable   class abc { static int x;}
+   c) instance variable   class abc { int c;}
+
+datatype 
+  primitive datatype (8)    default 
+   boolean                   false
+   byte                       0
+   char                       '\u0000'
+   short                       0
+   int                         0
+   long                        0l
+   float                       0.0f
+   double                      0.0d
+
+
+   
+non primitive 
+   classes  /interface / arrays 
+
+conditional statement 
+ 1) if
+  2) if else
+  3) if else if 
+  4) switch
+
+operator 
+ Assignment   = += -= *= /=
+
+   int a=10;
+   a= a+3;   // a+=3
+   a= a-2     //a-=2
+
+Relational      comparision   >  >= < <=  ==   !=
+
+arithmetic        + - * % /
+
+
+unary operator   ++  --
+
+  1) increment operator 
+         a) prefix increment operator
+  2) decrement operator 
+   
